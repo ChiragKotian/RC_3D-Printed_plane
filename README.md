@@ -16,7 +16,9 @@ The wing was printed in three parts, joined together by resin-based glue, and su
 
 ![20220922_183031](https://github.com/ChiragKotian/RC_3D-Printed_plane/assets/117931123/eaf3f64b-a452-4784-b0d9-f0d6e54f52a6)
 
-Similarly, fuselage too was multi-part and was joined using a similar process.
+
+Similarly, the fuselage too was multi-part and was joined using a similar process.
+
 
 ![20220922_213916](https://github.com/ChiragKotian/RC_3D-Printed_plane/assets/117931123/e158cdc8-8f14-49af-a87a-9abb0c942aa5)
 
