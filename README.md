@@ -33,7 +33,8 @@ In design, it was made sure to give ample access points to reach the electronics
 
 The landing gear structure is made from Aluminium and the wheels are of plastic. The design is such that the maximum of weight is distributed on a large area.
 
-The motor used is a normal drone 1000kV brushless motor powered by a 30A ESC which is attached to 10 inch drone propeller.
+The motor used is a normal drone 1000kV brushless motor powered by a 30A ESC, which was attached to a 10-inch drone propeller. A nose cap covered the motor and helped in aerodynamics.
+
 
 The control surfaces like ailerons, horizontal stabilizers and rudders are actuated by 9g Servos.
 
