@@ -77,15 +77,16 @@ Tail and Horizontal stabilizers are made out of MDF board due to their thin natu
 - Landing gears weren't aligned straight, due to which the plane wandered off during takeoff.
 - Due to bigger propellers (10 inches), the front landing gear structure was long, and since the CG of the plane was below the wings, the plane was unstable while takeoff.
 - The weight of the plane was on the higher end; hence takeoff required a longer runway for higher takeoff speed. A higher thrust-generating motor could have been beneficial.
-- The nosecap should have some ventilation
+- The nose cap should have some ventilation
+- Launch by hand(Catapult) is very difficult to achieve due to weight
 
-## Some videos (Attempts to fly the plane):
+## Compilation Video (Attempts to fly the plane):
 
+https://github.com/ChiragKotian/RC_3D-Printed_plane/assets/117931123/ad1963a9-9146-448e-ac63-f08439e68363
 
 ## Credits:
 
 _This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Arpit Gupta](https://github.com/arpitguptagithub). 
-
 With some help in joining all body parts from [@Amankumar8555](https://github.com/Amankumar8555)_
 
 
