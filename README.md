@@ -20,7 +20,7 @@ The parts are printed using ABS material.
 
 ![20220922_173734](https://github.com/ChiragKotian/RC_3D-Printed_plane/assets/117931123/b00bc07f-74bc-42d5-956b-1e4ec291d193)
 
-The wing was printed in three parts, joined together by resin-based glue, and supported by bicycle spokes and plastic rods running through it. Later the joints were covered with packing tape for a smoother surface so as to get a turbulence free flow of air.
+The wing was printed in three parts, joined together by resin-based glue, and supported by bicycle spokes and plastic rods running through it. Later the joints were covered with packing tape for a smoother surface so as to get a turbulence-free flow of air.
 
 ![20220922_183031](https://github.com/ChiragKotian/RC_3D-Printed_plane/assets/117931123/eaf3f64b-a452-4784-b0d9-f0d6e54f52a6)
 
